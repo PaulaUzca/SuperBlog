@@ -1,0 +1,4 @@
+Mi nombre es paula y tengo 18 años
+Soy de Merida Venezuela
+Me gustan los animalitos
+Y estoy aprendiendo Git
