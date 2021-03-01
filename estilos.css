@@ -11,3 +11,12 @@
 	background-color: pink;
 	margin: 0 auto;
 }
+#cabecera{
+	background-color: hotpink;
+}
+#cabecera li{
+	display:inline-block;
+}
+#cabecera li::after{
+	content: " |"
+}
