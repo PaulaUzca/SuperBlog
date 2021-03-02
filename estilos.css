@@ -8,11 +8,19 @@
 	padding: 1em;
 	text-align: left;
 	border: 1px solid black;
+<<<<<<< HEAD
 	background-color: lightcoral;
 	margin: 0 auto;
 }
 #cabecera{
 	background-color: red;
+=======
+	background-color: lightblue;
+	margin: 0 auto;
+}
+#cabecera{
+	background-color: blue;
+>>>>>>> cabecera
 	margin: 0 auto;
 	width: 70%;
 	display:flex;
