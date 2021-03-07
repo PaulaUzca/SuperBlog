@@ -34,6 +34,14 @@
 #cabecera li::after{
 	content: " |"
 }
+
+footer{
+	background-color: lightgray;
+	height: 100px;
+	width: 70%;
+	padding: 16px;
+	margin: 0 auto;
+}
 #logo{
 	width: 20%;
 	height:100%;
