@@ -9,7 +9,8 @@ Experimento 2
 
 Master 2
 
-Freddy Vega me dijo que practicara
+Freddy Vega me dijo que practicara voy a hacer conflictos malignos
+quien te manda a hacer un branch y no actualizarlo
 Un cambio para probar soft
 Otro cambio para probar soft
 
