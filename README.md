@@ -14,6 +14,7 @@ Reasons why my repository is very cool:
 - Its the first one i made (of many, I hope)
 - I learned everything at Platzi
 - And I made it with my own tiny hands and its very amazing
+-Creado con mucho talento, tiempo y dedicación
 
 ------------
 
