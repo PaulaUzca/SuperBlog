@@ -9,7 +9,8 @@ Experimento 2
 
 Master 2
 
-Freddy Vega me dijo que practicara
+Freddy Vega me dijo que practicara y eso estoy haciendo
+Quiero volver a practicar el merge
 Un cambio para probar soft
 Otro cambio para probar soft
 
